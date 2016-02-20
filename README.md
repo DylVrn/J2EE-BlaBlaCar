@@ -20,8 +20,8 @@ Lorsqu'on ajoute un trajet, le nom et prénom de l'utilisateur sont recherché d
 
 Problème : le système ne fonctionne qu'une seule fois (un seul ajout de trajet possible...)
 Lorsque l'on veut ajouter un second trajet, on obtient l'erreur suivante : 
-	Error while committing the transaction
-	HibernateException: Illegal attempt to associate a collection with two open sessions
+  - Error while committing the transaction
+  - HibernateException: Illegal attempt to associate a collection with two open sessions
 
 #--
 D'une façon générale, le système est très capricieux et fonctionne rarement correctement...
