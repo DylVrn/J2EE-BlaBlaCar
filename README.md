@@ -2,13 +2,13 @@
 
 #Instructions pour lancer le projet : 
 
-1 - Télécharger le projet au format .zip
-2 - L'importer dans NetBeans (File -> Import project -> From zip...)
-3 - Lancer le main afin de créer les tables de la base de données (BlaBlaCar-ejb -> Source Packages -> main -> TestEjb.java --run file--)
-4 - Lancer le projet BlaBlaCar (clic droit -> Deploy) 
-  Le projet utilise le serveur GlassFish et la base de données de NetBeans.
-5 - Ouvrir le navigateur et se rendre à l'adresse suivante :
-  http://localhost:8080/BlaBlaCar-war/accueil.faces
+- 1 - Télécharger le projet au format .zip
+- 2 - L'importer dans NetBeans (File -> Import project -> From zip...)
+- 3 - Lancer le main afin de créer les tables de la base de données (BlaBlaCar-ejb -> Source Packages -> main -> TestEjb.java --run file--)
+- 4 - Lancer le projet BlaBlaCar (clic droit -> Deploy) 
+  - Le projet utilise le serveur GlassFish et la base de données de NetBeans.
+- 5 - Ouvrir le navigateur et se rendre à l'adresse suivante :
+  - http://localhost:8080/BlaBlaCar-war/accueil.faces
 
 #Travail réalisé
 - Il est possible d'ajouter un trajet associé à un utilisateur.
